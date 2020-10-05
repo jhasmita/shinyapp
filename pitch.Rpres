@@ -1,0 +1,50 @@
+pitch
+========================================================
+author: Smita
+date: October 2020
+autosize: true
+
+
+========================================================
+Creating a simple stock visualization app using shiny
+
+Introduction and R packages
+========================================================
+
+I built a shiny application that allows the user to 
+visualize stocks and their historical prices.
+For this, packages utilized include:
+shiny and quantmod
+
+
+Building the app (1)
+========================================================
+The process of building app consists of two scripts:
+ui.R and server.R
+
+ui.R includes
+- Check box to select the stocks
+- Date range selector
+- Type of plot selector
+
+Building the app (2)
+========================================================
+server.R allows for
+- Fetch stocks according to the check box selection in ui.
+- Select prices only for the date range selected
+- Plot prices depending on ticker selection.
+
+Links to app usage and instructions.
+========================================================
+Final result
+
+The final app and use instructions can be found here: 
+[linked phrase](http://example.com)
+
+[ui.r] (ui.R)
+[server.R] (server.R)
+
+For further details on the code, please visit the GitHub repository: 
+
+
+
