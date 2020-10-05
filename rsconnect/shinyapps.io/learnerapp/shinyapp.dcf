@@ -1,0 +1,12 @@
+name: shinyapp
+title: shinyapp
+username:
+account: learnerapp
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 2944402
+bundleId: 3703743
+url: https://learnerapp.shinyapps.io/shinyapp/
+when: 1601892791.92591
+asMultiple: FALSE
+asStatic: FALSE
